@@ -1,6 +1,6 @@
 # fcn-liver-segmentation
 
-## FCN Biomedical Image Segmentation
+## FCN Biomedical Image Semantic Segmentation
 
 This repository contains the code to perform liver segmentation using Fully Convolutional Networks [FCN](https://arxiv.org/abs/1411.4038) and tensorflow.
 
